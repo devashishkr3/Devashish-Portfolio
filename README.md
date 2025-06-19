@@ -14,6 +14,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## folder structure
 
+Here's a suggested folder structure for your React portfolio project using Vite and Tailwind CSS:
+
+```
 my-portfolio/
 │
 ├── public/
@@ -50,3 +53,4 @@ my-portfolio/
 ├── postcss.config.js
 ├── package.json
 └── vite.config.js
+```
