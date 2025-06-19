@@ -26,6 +26,8 @@ my-portfolio/
 │   ├── assets/               # Images, logos, icons, etc.
 │   │   └── profile.jpg
 │
+|   ├── contex
+|
 │   ├── components/           # Reusable UI components
 │   │   ├── Header.jsx
 │   │   ├── Footer.jsx
