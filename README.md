@@ -26,7 +26,8 @@ my-portfolio/
 │   ├── assets/               # Images, logos, icons, etc.
 │   │   └── profile.jpg
 │
-|   ├── contex
+|   ├── context/
+│   │   └── ThemeContext.jsx  # Context for theme management
 |
 │   ├── components/           # Reusable UI components
 │   │   ├── Header.jsx
