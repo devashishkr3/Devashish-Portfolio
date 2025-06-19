@@ -46,7 +46,7 @@ my-portfolio/
 │   │   └── AppRoutes.jsx
 │
 │   ├── data/                 # JSON or JS files for dynamic content
-│   │   └── projects.js       # Projects list with details
+│   │   └── projects.ts       # Projects list with details
 │
 │   ├── App.jsx               # Main app structure
 │   ├── main.jsx              # React entry point
