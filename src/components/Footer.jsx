@@ -1,3 +1,5 @@
+//simple footer
+
 import React, { useContext } from "react";
 import { ThemeContext } from "../context/ThemeContext";
 import { Github, Linkedin, Mail } from "lucide-react";
