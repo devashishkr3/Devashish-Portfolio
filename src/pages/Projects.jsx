@@ -1,5 +1,5 @@
 //Project Showcase on the web page
-import React from "react";
+// import React from "react";
 import { useContext } from "react";
 import { projects } from "../data/project";
 import ProjectCard from "../components/ProjectCard";
